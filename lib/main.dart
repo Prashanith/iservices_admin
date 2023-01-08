@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:i_singoji_services/pages/home_page/logo_page_temp/logo.dart';
 import 'package:i_singoji_services/router/route_generator.dart';
 import 'package:i_singoji_services/router/routes.dart';
 
@@ -20,6 +21,9 @@ class MyApp extends StatelessWidget {
       ),
       onGenerateRoute: RouteGenerator.generateRoute,
       initialRoute: home,
+      home: const Scaffold(
+        body: ISingojiServicesLogo(),
+      ),
     );
   }
 }

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1008815235381",
+    "project_id": "isingojiservices",
+    "storage_bucket": "isingojiservices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008815235381:android:dfffb0b2511bdf9396ac7c",
+        "android_client_info": {
+          "package_name": "com.dev007.iservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008815235381-l5r6j1shi8vkrsmevpnll277unnqbdf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjzipF2oF6mezu-sB97eW5zFuFETK2mI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008815235381-l5r6j1shi8vkrsmevpnll277unnqbdf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008815235381-f6hi1k19i9a73sdnle4gmkn6caodqej0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev007.isfuse.isFuse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008815235381:android:7b81c14a4b516ea196ac7c",
+        "android_client_info": {
+          "package_name": "com.dev007.iservices.iservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008815235381-l5r6j1shi8vkrsmevpnll277unnqbdf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjzipF2oF6mezu-sB97eW5zFuFETK2mI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008815235381-l5r6j1shi8vkrsmevpnll277unnqbdf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008815235381-f6hi1k19i9a73sdnle4gmkn6caodqej0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev007.isfuse.isFuse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
